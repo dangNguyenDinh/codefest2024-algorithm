@@ -17,7 +17,7 @@ import jsclub.codefest2024.sdk.model.equipments.HealingItem;
 public class Main {
 
 	private static final String SERVER_URL = "https://cf-server.jsclub.dev";
-	private static final String GAME_ID = "125336";
+	private static final String GAME_ID = "122236";
 	private static final String PLAYER_NAME = "konan";
 
 	static int step = 660;
